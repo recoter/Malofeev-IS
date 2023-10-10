@@ -118,7 +118,7 @@ class passengers {
 
 }
 
-User <-> trip
+
 User <- route
 trip <- route
 passengers -> User
